@@ -45,9 +45,10 @@ This compares the similarity between:
 * Resume Content
 * Job Description
 
----
 
 🛠️ Tech Stack
+
+---
 
 Frontend:
 
