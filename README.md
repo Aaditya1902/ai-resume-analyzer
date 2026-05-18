@@ -9,6 +9,7 @@ Frontend: https://ai-resume-analyzer-livid-mu.vercel.app/p
 
 Backend API Docs: https://ai-resume-analyzer-2seo.onrender.com
 
+---
 
 📌 Features
 
@@ -28,7 +29,7 @@ Backend API Docs: https://ai-resume-analyzer-2seo.onrender.com
 
 ✅ Full Stack Deployment
 
-
+---
 
 🧠 ATS Score Calculation
 
@@ -44,6 +45,7 @@ This compares the similarity between:
 * Resume Content
 * Job Description
 
+---
 
 🛠️ Tech Stack
 
@@ -88,6 +90,7 @@ ai-resume-analyzer/
 │
 └── README.md
 ```
+---
 
 ⚙️ Installation
 
@@ -139,6 +142,8 @@ Frontend runs on:
 http://localhost:5173
 ```
 
+---
+
 🎯 Future Improvements
 
 * Authentication System
@@ -148,7 +153,7 @@ http://localhost:5173
 * OCR Support for Scanned Resumes
 * Downloadable PDF Reports
 
-
+---
 
 👨‍💻 Author
 
