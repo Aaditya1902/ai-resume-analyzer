@@ -6,7 +6,7 @@ An AI-powered Resume Analyzer built using **React, FastAPI, and NLP techniques**
 
 ## 🌐 Live Demo
 
-Frontend: https://ai-resume-analyzer-livid-mu.vercel.app/p
+Frontend: https://ai-resume-analyzer-livid-mu.vercel.app/
 
 Backend API Docs: https://ai-resume-analyzer-2seo.onrender.com
 
