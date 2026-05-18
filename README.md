@@ -2,6 +2,7 @@
 
 An AI-powered Resume Analyzer built using **React, FastAPI, and NLP techniques** to evaluate ATS compatibility, extract technical skills, detect missing skills, and generate intelligent resume improvement suggestions.
 
+---
 
 ## 🌐 Live Demo
 
@@ -11,7 +12,7 @@ Backend API Docs: https://ai-resume-analyzer-2seo.onrender.com
 
 ---
 
-📌 Features
+## 📌 Features
 
 ✅ Resume Upload (PDF)
 
@@ -31,26 +32,27 @@ Backend API Docs: https://ai-resume-analyzer-2seo.onrender.com
 
 ---
 
-🧠 ATS Score Calculation
+## 🧠 ATS Score Calculation
 
 The ATS score is calculated using:
 
 * TF-IDF Vectorization
 * Cosine Similarity
 
-Formula used:   Cosine Similarity = (A · B) / (||A|| ||B||)
+Formula used:
+
+Cosine Similarity = (A · B) / (||A|| ||B||)
 
 This compares the similarity between:
 
 * Resume Content
 * Job Description
 
-
-🛠️ Tech Stack
-
 ---
 
-Frontend:
+## 🛠️ Tech Stack
+
+### Frontend
 
 * React
 * Tailwind CSS
@@ -58,21 +60,21 @@ Frontend:
 * React Circular Progressbar
 * Vite
 
-Backend:
+### Backend
 
 * FastAPI
 * Python
 * Scikit-learn
 * PDFPlumber
 
-Deployment:
+### Deployment
 
 * Vercel (Frontend)
 * Render (Backend)
 
 ---
 
-📂 Project Structure
+## 📂 Project Structure
 
 ```bash
 ai-resume-analyzer/
@@ -91,9 +93,10 @@ ai-resume-analyzer/
 │
 └── README.md
 ```
+
 ---
 
-⚙️ Installation
+## ⚙️ Installation
 
 ### Clone Repository
 
@@ -102,6 +105,7 @@ git clone https://github.com/yourusername/ai-resume-analyzer.git
 cd ai-resume-analyzer
 ```
 
+---
 
 ## 🔹 Backend Setup
 
@@ -144,7 +148,7 @@ http://localhost:5173
 
 ---
 
-🎯 Future Improvements
+## 🎯 Future Improvements
 
 * Authentication System
 * MongoDB Integration
@@ -155,9 +159,11 @@ http://localhost:5173
 
 ---
 
-👨‍💻 Author
+## 👨‍💻 Author
 
 Aaditya Singh Rawat
 
 GitHub: https://github.com/Aaditya1902
+
+---
 
