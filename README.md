@@ -9,7 +9,7 @@ Frontend: https://ai-resume-analyzer-livid-mu.vercel.app/p
 
 Backend API Docs: https://ai-resume-analyzer-2seo.onrender.com
 
----
+--
 
 📌 Features
 
@@ -101,7 +101,6 @@ git clone https://github.com/yourusername/ai-resume-analyzer.git
 cd ai-resume-analyzer
 ```
 
----
 
 ## 🔹 Backend Setup
 
