@@ -9,7 +9,7 @@ Frontend: https://ai-resume-analyzer-livid-mu.vercel.app/p
 
 Backend API Docs: https://ai-resume-analyzer-2seo.onrender.com
 
---
+---
 
 📌 Features
 
@@ -45,9 +45,9 @@ This compares the similarity between:
 * Resume Content
 * Job Description
 
----
 
-🛠️ Tech Stack
+
+###  🛠️ Tech Stack
 
 Frontend:
 
